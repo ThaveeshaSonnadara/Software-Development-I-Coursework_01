@@ -1,13 +1,14 @@
-# Software-Development-I-Coursework_01
+# Software-Development-I-Coursework
 # Coursework_01 at First year of IIT
 
-This is where I freshly start my coding practice in the very first semester at Informatics Institute of Technology,Sri Lanka
+This is where I freshly start my coding practice in the very first semester at the Informatics Institute of Technology, Sri Lanka
 
-In this coursework I had to design and implement a program to given outcomes and the requirment was a program to predict progression outcomes at the end of each academic year. 
+In this coursework, I had to design and implement a program to given outcomes and the requirement was a program to predict progression outcomes at the end of each academic year. 
 
-Also this is where I step into Python Programming Language.
+Also, this is where I step into Python Programming Language.
 
 Learning Outcomes covered in this assignment,
+
        LO1 Analyse specific problems and design their solutions by applying appropriate algorithmic techniques;
        LO2 Apply programming concepts to implement solutions in the taught programming language;
        LO3 Implement and manipulate simple data structures;
